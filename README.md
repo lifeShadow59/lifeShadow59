@@ -1,4 +1,5 @@
 
+![me](https://user-images.githubusercontent.com/40498553/132581936-94f03504-c0bc-44c1-81ac-13c730d7ca47.png)
 
 ![typescript](https://img.shields.io/badge/Python-Fan-0077b6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![windows](https://img.shields.io/badge/Linux-OS-fb8500?style=for-the-badge&logo=linux&logoColor=white)
